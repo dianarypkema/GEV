@@ -7,6 +7,7 @@ DESCRIPTION
 R code and data files for fitting the generalized extreme value distribution to historical hurricane data in our SE Florida study area, conducting Ardisia escallonioides population dynamics simulations, and generating figures.
 ________________________________________
 AUTHORS
+
 Diana Rypkema
 Department of Biology, Stanford University, 371 Serra Mall, Stanford, CA 94305, USA
 Department of Natural Resources, Cornell University, Fernow Hall, Ithaca, NY 14850, USA
