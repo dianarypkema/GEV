@@ -8,17 +8,8 @@ R code and data files for fitting the generalized extreme value distribution to 
 ________________________________________
 AUTHORS
 
-Diana Rypkema
-Department of Biology, Stanford University, 371 Serra Mall, Stanford, CA 94305, USA
-Department of Natural Resources, Cornell University, Fernow Hall, Ithaca, NY 14850, USA
-The Nature Conservancy, 652 NY-299, Highland, NY 12528, USA
-Email: dcr78@cornell.edu
+Diana Rypkema, Shripad Tuljapurkar, and Carol Horvitz
 
-Shripad Tuljapurkar
-Department of Biology, Stanford University, 371 Serra Mall, Stanford, CA 94305, USA
-
-Carol Horvitz
-Department of Biology, University of Miami, 215 Cox Science Center, 1301 Memorial Drive, Coral Gables, FL 33146, USA
 ________________________________________
 FILES
 
