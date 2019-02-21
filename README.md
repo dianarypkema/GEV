@@ -1,6 +1,6 @@
 # GEV
 
-Rypkema, D., Tuljapurkar, S., and Horvitz, C. 2019. How climate affects extreme events and hence ecological population models. Ecology.
+Rypkema, D., Horvitz, C., and Tuljapurkar, S. 2019. How climate affects extreme events and hence ecological population models. Ecology.
 ________________________________________
 DESCRIPTION
 
@@ -8,7 +8,7 @@ R code and data files for fitting the generalized extreme value distribution to 
 ________________________________________
 AUTHORS
 
-Diana Rypkema, Shripad Tuljapurkar, and Carol Horvitz
+Diana Rypkema, Carol Horvitz, and Shripad Tuljapurkar
 
 ________________________________________
 FILES
